@@ -1,4 +1,4 @@
-package edu.up.cs301;
+package edu.up.cs301.slapjack;
 
 import org.junit.Test;
 

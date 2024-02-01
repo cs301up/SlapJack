@@ -2,7 +2,6 @@ package edu.up.cs301.card;
 
 import java.io.Serializable;
 
-import edu.up.cs301.game.R;
 import android.app.Activity;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
@@ -11,6 +10,8 @@ import android.graphics.Color;
 import android.graphics.Paint;
 import android.graphics.Rect;
 import android.graphics.RectF;
+
+import edu.up.cs301.slapjack.R;
 
 /**
  * A playing card in the standard 52-card deck. The images, which have been

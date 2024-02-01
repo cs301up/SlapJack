@@ -12,7 +12,6 @@ import edu.up.cs301.game.GameFramework.animation.*;
 import edu.up.cs301.card.Card;
 import edu.up.cs301.game.GameFramework.players.*;
 import edu.up.cs301.game.GameFramework.GameMainActivity;
-import edu.up.cs301.game.R;
 import edu.up.cs301.game.GameFramework.infoMessage.*;
 
 /**
